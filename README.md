@@ -1,6 +1,6 @@
 ### coilLauncher
 Arduino Nano based code for controlling a magnetic coil rail launcher
-o
+ 
      coilLauncher - An Arduino nano controls the triggering and timing of two sets
      of electromagnets to propel a sled down a rail.  Used to experiment with the
      power and timing of triggering and how it affects the launch energy of the sled
